@@ -1,0 +1,105 @@
+* {
+    padding: 0px 25px;
+}
+
+.body {
+    background-image: url(/assets/nature.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    padding-bottom: 5%;
+}
+
+.div1 {
+    color: blue;
+    text-decoration: underline;
+    font-style: italic;
+
+}
+
+.div2 {
+    border-style: solid;
+    background-color: pink;
+    border-radius: 20px;
+}
+
+.div3 {
+    background-color: #ff450099;
+    border-radius: 40px;
+    height: 120px;
+    padding: 30px;
+    text-align: justify;
+    font-size: 17px;
+    box-shadow: 10px 15px 4px black;
+    border-color: pink;
+    border: 3px solid #806a81;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.div4 {
+    width: 100%;
+    height: 150px;
+    text-align: center;
+
+}
+
+.div5 {
+    text-align: center;
+    border: 3px solid black;
+    border-radius: 40px;
+    border-color: #806a81;
+    box-shadow: 10px 15px 5px black;
+    background-color: #ff450099;
+    font-family: 'Gill Sans', 'Gill Sans MT', 'Calibri', 'Trebuchet MS', sans-serif;
+
+
+}
+
+.div6 {
+    border: 3px solid black;
+    border-radius: 40px;
+    border-color: #806a81;
+    box-shadow: 10px 15px 5px black;
+    background-color: #806a81;
+    position: absolute;
+}
+
+/* .div7 :hover p {
+    border: 3px solid black;
+    background-color: rgb(255, 136, 0);
+    border-radius: 40px;
+    padding: 20px;
+} */
+
+.div7 {
+    border: 3px solid black;
+    border-radius: 40px;
+    border-color: #806a81;
+    box-shadow: 10px 15px 5px black;
+    padding: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: #ff450099;
+}
+
+.div8 {
+    text-align: center;
+    border: 3px solid black;
+    border-radius: 100px;
+    border-color: #806a81;
+    box-shadow: 10px 15px 5px black;
+    background-color: #ff450099;
+    position: absolute;
+    left: 34%;
+    right: 34%;
+}
+
+.image {
+    border: 3px solid black;
+    border-color: #806a81;
+    box-shadow: 10px 15px 5px black;
+    background-color: #ff450099;
+    border-style: solid;
+    border-radius: 50px;
+    position: absolute;
+    left: 43.5%;
+    right: 34%;
+}

@@ -1,0 +1,115 @@
+/* .imageline{
+    display: inline-flex;
+    padding-bottom: 100px;
+} */
+
+body {
+    margin: 50px;
+    position: absolute;
+    left: 130px;
+    right: 10px;
+    background-image: url(sergey-voronov-star-city-concept.jpg);
+    max-height: 1000px
+}
+
+.title1 {
+    text-align: center;
+    margin-right: 120px;
+    border: 3px solid black;
+    border-radius: 40px;
+    border-color: #00d9ff;
+    box-shadow: 10px 15px 5px black;
+    padding: 5px 20px;
+    background-color: #ff0000;
+    transform: scale(1);
+    transition: transform 0.3s ease-in-out;
+}
+
+
+.a {
+    border: 3px solid black;
+    border-radius: 40px;
+    border-color: #00d9ff;
+    box-shadow: 10px 15px 5px black;
+    padding: 5px 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: #ff0000;
+    display: inline-block;
+    max-width: 200px;
+    padding-top: 20px;
+    margin: 30px;
+    min-height: 100px;
+    transform: scale(1);
+    transition: transform 0.3s ease-in-out;
+}
+
+.b {
+    border: 3px solid black;
+    border-radius: 40px;
+    border-color: #d0ff00;
+    box-shadow: 10px 15px 5px black;
+    padding: 5px 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: #4400ff;
+    display: inline-block;
+    max-width: 200px;
+    padding-top: 20px;
+    margin: 30px;
+    min-height: 100px;
+    transform: scale(1);
+    transition: transform 0.3s ease-in-out;
+}
+
+.c {
+    border: 3px solid black;
+    border-radius: 40px;
+    border-color: #ff0000;
+    box-shadow: 10px 15px 5px black;
+    padding: 5px 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: #00ffff;
+    display: inline-block;
+    max-width: 200px;
+    padding-top: 20px;
+    margin: 30px;
+    min-height: 100px;
+    transform: scale(1);
+    transition: transform 0.3s ease-in-out;
+}
+
+.d {
+    border: 3px solid black;
+    border-radius: 40px;
+    border-color: #4400ff;
+    box-shadow: 10px 15px 5px black;
+    padding: 5px 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: #ff00b3;
+    display: inline-block;
+    max-width: 200px;
+    padding-top: 20px;
+    margin: 30px;
+    min-height: 100px;
+    transform: scale(1);
+    transition: transform 0.3s ease-in-out;
+}
+
+.a:hover {
+    transform: scale(1.10)
+}
+
+.b:hover {
+    transform: scale(1.10)
+}
+
+.c:hover {
+    transform: scale(1.10)
+}
+
+.d:hover {
+    transform: scale(1.10)
+}
+
+.title1:hover {
+    transform: scale(1.10)
+}
